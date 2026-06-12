@@ -1,0 +1,1609 @@
+2026-03-26 15:14:49,082 - __main__ - INFO - ============================================================
+2026-03-26 15:14:49,083 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:14:49,083 - __main__ - INFO - ============================================================
+2026-03-26 15:14:49,083 - __main__ - ERROR - API key not configured. Please set OPENWEATHER_API_KEY environment variable or update config.py
+2026-03-26 15:14:49,084 - __main__ - INFO - Application terminated
+2026-03-26 15:14:49,084 - __main__ - INFO - ============================================================
+2026-03-26 15:15:22,425 - __main__ - INFO - ============================================================
+2026-03-26 15:15:22,426 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:15:22,427 - __main__ - INFO - ============================================================
+2026-03-26 15:15:22,427 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:15:22,427 - src.weather_api - INFO - WeatherAPI initialized for New Brunswick, NJ (imperial)
+2026-03-26 15:15:22,428 - __main__ - INFO - Weather API initialized for New Brunswick, NJ
+2026-03-26 15:15:22,428 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:15:22,428 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:15:23,466 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:15:23,467 - __main__ - INFO - Application initialization complete
+2026-03-26 15:15:23,467 - __main__ - INFO - Starting application...
+2026-03-26 15:15:23,467 - src.gui - INFO - Updating weather data...
+2026-03-26 15:15:23,622 - src.weather_api - ERROR - Location not found: New Brunswick, NJ
+2026-03-26 15:15:23,623 - __main__ - ERROR - Weather API error: Location not found: New Brunswick, NJ
+2026-03-26 15:15:23,623 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:15:23,624 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:15:23,625 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:15:23,625 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:16:55,348 - __main__ - INFO - Application interrupted by user
+2026-03-26 15:16:55,349 - __main__ - INFO - Application terminated
+2026-03-26 15:16:55,349 - __main__ - INFO - ============================================================
+2026-03-26 15:16:57,968 - __main__ - INFO - ============================================================
+2026-03-26 15:16:57,969 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:16:57,969 - __main__ - INFO - ============================================================
+2026-03-26 15:16:57,970 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:16:57,970 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:16:57,970 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:16:57,971 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:16:57,971 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:16:58,989 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:16:58,989 - __main__ - INFO - Application initialization complete
+2026-03-26 15:16:58,990 - __main__ - INFO - Starting application...
+2026-03-26 15:16:58,990 - src.gui - INFO - Updating weather data...
+2026-03-26 15:16:59,042 - src.weather_api - ERROR - Location not found: New York, NY
+2026-03-26 15:16:59,042 - __main__ - ERROR - Weather API error: Location not found: New York, NY
+2026-03-26 15:16:59,043 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:16:59,045 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:16:59,045 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:16:59,046 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:17:32,527 - __main__ - INFO - Application interrupted by user
+2026-03-26 15:17:32,528 - __main__ - INFO - Application terminated
+2026-03-26 15:17:32,529 - __main__ - INFO - ============================================================
+2026-03-26 15:17:34,831 - __main__ - INFO - ============================================================
+2026-03-26 15:17:34,831 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:17:34,831 - __main__ - INFO - ============================================================
+2026-03-26 15:17:34,831 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:17:34,831 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:17:34,832 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:17:34,832 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:17:34,832 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:17:35,826 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:17:35,826 - __main__ - INFO - Application initialization complete
+2026-03-26 15:17:35,826 - __main__ - INFO - Starting application...
+2026-03-26 15:17:35,826 - src.gui - INFO - Updating weather data...
+2026-03-26 15:17:35,866 - src.weather_api - ERROR - Invalid API key
+2026-03-26 15:17:35,867 - __main__ - ERROR - Weather API error: Invalid API key
+2026-03-26 15:17:35,868 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:17:35,869 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:17:35,869 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:17:35,869 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:19:10,706 - __main__ - INFO - Application interrupted by user
+2026-03-26 15:19:10,707 - __main__ - INFO - Application terminated
+2026-03-26 15:19:10,707 - __main__ - INFO - ============================================================
+2026-03-26 15:19:12,147 - __main__ - INFO - ============================================================
+2026-03-26 15:19:12,147 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:19:12,147 - __main__ - INFO - ============================================================
+2026-03-26 15:19:12,147 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:19:12,148 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:19:12,148 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:19:12,148 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:19:12,148 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:19:13,295 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:19:13,296 - __main__ - INFO - Application initialization complete
+2026-03-26 15:19:13,296 - __main__ - INFO - Starting application...
+2026-03-26 15:19:13,296 - src.gui - INFO - Updating weather data...
+2026-03-26 15:19:13,335 - src.weather_api - ERROR - Invalid API key
+2026-03-26 15:19:13,336 - __main__ - ERROR - Weather API error: Invalid API key
+2026-03-26 15:19:13,336 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:19:13,337 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:19:13,337 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:19:13,337 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:19:17,371 - __main__ - INFO - Application terminated
+2026-03-26 15:19:17,372 - __main__ - INFO - ============================================================
+2026-03-26 15:20:53,828 - __main__ - INFO - ============================================================
+2026-03-26 15:20:53,828 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:20:53,828 - __main__ - INFO - ============================================================
+2026-03-26 15:20:53,828 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:20:53,828 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:20:53,828 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:20:53,829 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:20:53,829 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:20:54,774 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:20:54,774 - __main__ - INFO - Application initialization complete
+2026-03-26 15:20:54,774 - __main__ - INFO - Starting application...
+2026-03-26 15:20:54,774 - src.gui - INFO - Updating weather data...
+2026-03-26 15:20:54,825 - src.weather_api - ERROR - Invalid API key
+2026-03-26 15:20:54,825 - __main__ - ERROR - Weather API error: Invalid API key
+2026-03-26 15:20:54,827 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:20:54,827 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:20:54,828 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:20:54,828 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:20:58,049 - __main__ - INFO - Application terminated
+2026-03-26 15:20:58,050 - __main__ - INFO - ============================================================
+2026-03-26 15:21:17,665 - __main__ - INFO - ============================================================
+2026-03-26 15:21:17,665 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:21:17,665 - __main__ - INFO - ============================================================
+2026-03-26 15:21:17,665 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:21:17,665 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:21:17,665 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:21:17,665 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:21:17,666 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:21:18,570 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:21:18,571 - __main__ - INFO - Application initialization complete
+2026-03-26 15:21:18,571 - __main__ - INFO - Starting application...
+2026-03-26 15:21:18,571 - src.gui - INFO - Updating weather data...
+2026-03-26 15:21:18,620 - src.weather_api - ERROR - Invalid API key
+2026-03-26 15:21:18,621 - __main__ - ERROR - Weather API error: Invalid API key
+2026-03-26 15:21:18,622 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:21:18,623 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:21:18,623 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:21:18,623 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:21:20,029 - __main__ - INFO - Application terminated
+2026-03-26 15:21:20,030 - __main__ - INFO - ============================================================
+2026-03-26 15:21:26,215 - __main__ - INFO - ============================================================
+2026-03-26 15:21:26,215 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:21:26,215 - __main__ - INFO - ============================================================
+2026-03-26 15:21:26,215 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:21:26,215 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:21:26,215 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:21:26,215 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:21:26,215 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:21:27,299 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:21:27,299 - __main__ - INFO - Application initialization complete
+2026-03-26 15:21:27,299 - __main__ - INFO - Starting application...
+2026-03-26 15:21:27,299 - src.gui - INFO - Updating weather data...
+2026-03-26 15:21:27,349 - src.weather_api - ERROR - Invalid API key
+2026-03-26 15:21:27,349 - __main__ - ERROR - Weather API error: Invalid API key
+2026-03-26 15:21:27,350 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:21:27,351 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:21:27,351 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:21:27,351 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:21:29,779 - __main__ - INFO - Application terminated
+2026-03-26 15:21:29,780 - __main__ - INFO - ============================================================
+2026-03-26 15:25:06,655 - __main__ - INFO - ============================================================
+2026-03-26 15:25:06,656 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:25:06,656 - __main__ - INFO - ============================================================
+2026-03-26 15:25:06,657 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:25:06,657 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:25:06,657 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:25:06,658 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:25:06,658 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:25:07,663 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:25:07,664 - __main__ - INFO - Application initialization complete
+2026-03-26 15:25:07,664 - __main__ - INFO - Starting application...
+2026-03-26 15:25:07,665 - src.gui - INFO - Updating weather data...
+2026-03-26 15:25:07,716 - src.weather_api - ERROR - Location not found: New York, NY
+2026-03-26 15:25:07,717 - __main__ - ERROR - Weather API error: Location not found: New York, NY
+2026-03-26 15:25:07,718 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:25:07,719 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:25:07,719 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:25:07,720 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:26:01,316 - __main__ - INFO - Application terminated
+2026-03-26 15:26:01,317 - __main__ - INFO - ============================================================
+2026-03-26 15:41:27,307 - __main__ - INFO - ============================================================
+2026-03-26 15:41:27,307 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:41:27,307 - __main__ - INFO - ============================================================
+2026-03-26 15:41:27,307 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:41:27,308 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:41:27,308 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:41:27,308 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:41:27,308 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:41:28,329 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:41:28,329 - __main__ - INFO - Application initialization complete
+2026-03-26 15:41:28,329 - __main__ - INFO - Starting application...
+2026-03-26 15:41:28,329 - src.gui - INFO - Updating weather data...
+2026-03-26 15:41:28,375 - src.weather_api - ERROR - Location not found: New York, NY
+2026-03-26 15:41:28,375 - __main__ - ERROR - Weather API error: Location not found: New York, NY
+2026-03-26 15:41:28,376 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:41:28,377 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:41:28,377 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:41:28,377 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:47:33,907 - __main__ - INFO - Application terminated
+2026-03-26 15:47:34,007 - __main__ - INFO - ============================================================
+2026-03-26 15:47:37,170 - __main__ - INFO - ============================================================
+2026-03-26 15:47:37,170 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:47:37,170 - __main__ - INFO - ============================================================
+2026-03-26 15:47:37,170 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:47:37,171 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:47:37,171 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:47:37,171 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:47:37,172 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:47:38,212 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:47:38,213 - __main__ - INFO - Application initialization complete
+2026-03-26 15:47:38,213 - __main__ - INFO - Starting application...
+2026-03-26 15:47:38,213 - src.gui - INFO - Updating weather data...
+2026-03-26 15:47:38,362 - src.weather_api - ERROR - Location not found: New York, NY
+2026-03-26 15:47:38,362 - __main__ - ERROR - Weather API error: Location not found: New York, NY
+2026-03-26 15:47:38,364 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:47:38,365 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:47:38,365 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:47:38,365 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:47:42,542 - __main__ - INFO - Application terminated
+2026-03-26 15:47:42,543 - __main__ - INFO - ============================================================
+2026-03-26 15:49:34,159 - __main__ - INFO - ============================================================
+2026-03-26 15:49:34,159 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:49:34,160 - __main__ - INFO - ============================================================
+2026-03-26 15:49:34,160 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:49:34,160 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:49:34,160 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:49:34,160 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:49:34,161 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:49:35,028 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:49:35,029 - __main__ - INFO - Application initialization complete
+2026-03-26 15:49:35,029 - __main__ - INFO - Starting application...
+2026-03-26 15:49:35,029 - src.gui - INFO - Updating weather data...
+2026-03-26 15:49:35,160 - src.weather_api - ERROR - Location not found: New York, NY
+2026-03-26 15:49:35,160 - __main__ - ERROR - Weather API error: Location not found: New York, NY
+2026-03-26 15:49:35,163 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:49:35,164 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:49:35,164 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:49:35,164 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:49:39,535 - __main__ - INFO - Application terminated
+2026-03-26 15:49:39,535 - __main__ - INFO - ============================================================
+2026-03-26 15:52:26,917 - __main__ - INFO - ============================================================
+2026-03-26 15:52:26,917 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:52:26,917 - __main__ - INFO - ============================================================
+2026-03-26 15:52:26,917 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:52:26,917 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:52:26,917 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:52:26,918 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:52:26,918 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:52:27,815 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:52:27,816 - __main__ - INFO - Application initialization complete
+2026-03-26 15:52:27,816 - __main__ - INFO - Starting application...
+2026-03-26 15:52:27,816 - src.gui - INFO - Updating weather data...
+2026-03-26 15:52:27,951 - src.weather_api - ERROR - Failed to parse API response: Location not found: New York, NY
+2026-03-26 15:52:27,951 - __main__ - ERROR - Weather API error: Unexpected API response format: Location not found: New York, NY
+2026-03-26 15:52:27,953 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:52:27,954 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:52:27,954 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:52:27,955 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:52:31,913 - __main__ - INFO - Application terminated
+2026-03-26 15:52:31,914 - __main__ - INFO - ============================================================
+2026-03-26 15:55:04,704 - __main__ - INFO - ============================================================
+2026-03-26 15:55:04,705 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:55:04,705 - __main__ - INFO - ============================================================
+2026-03-26 15:55:04,706 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:55:04,706 - src.weather_api - INFO - WeatherAPI initialized for New York, NY (imperial)
+2026-03-26 15:55:04,706 - __main__ - INFO - Weather API initialized for New York, NY
+2026-03-26 15:55:04,707 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:55:04,707 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:55:05,545 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:55:05,546 - __main__ - INFO - Application initialization complete
+2026-03-26 15:55:05,546 - __main__ - INFO - Starting application...
+2026-03-26 15:55:05,547 - src.gui - INFO - Updating weather data...
+2026-03-26 15:55:05,582 - src.weather_api - ERROR - Failed to parse API response: Location not found: New York, NY
+2026-03-26 15:55:05,582 - __main__ - ERROR - Weather API error: Unexpected API response format: Location not found: New York, NY
+2026-03-26 15:55:05,584 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:55:05,585 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:55:05,586 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:55:05,586 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:56:13,275 - __main__ - INFO - Application interrupted by user
+2026-03-26 15:56:13,276 - __main__ - INFO - Application terminated
+2026-03-26 15:56:13,276 - __main__ - INFO - ============================================================
+2026-03-26 15:56:14,862 - __main__ - INFO - ============================================================
+2026-03-26 15:56:14,863 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:56:14,863 - __main__ - INFO - ============================================================
+2026-03-26 15:56:14,863 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:56:14,864 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 15:56:14,864 - __main__ - INFO - Weather API initialized for 40.7128,-74.0060
+2026-03-26 15:56:14,864 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:56:14,865 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:56:15,765 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:56:15,766 - __main__ - INFO - Application initialization complete
+2026-03-26 15:56:15,766 - __main__ - INFO - Starting application...
+2026-03-26 15:56:15,766 - src.gui - INFO - Updating weather data...
+2026-03-26 15:56:15,906 - src.weather_api - ERROR - Failed to parse API response: Location not found: 40.7128,-74.0060
+2026-03-26 15:56:15,907 - __main__ - ERROR - Weather API error: Unexpected API response format: Location not found: 40.7128,-74.0060
+2026-03-26 15:56:15,908 - src.gui - ERROR - Showing error: Unable to fetch weather data. Check your API key and internet connection.
+2026-03-26 15:56:15,910 - src.gui - WARNING - Weather fetch returned None
+2026-03-26 15:56:15,910 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:56:15,911 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:56:57,595 - __main__ - INFO - Application interrupted by user
+2026-03-26 15:56:57,596 - __main__ - INFO - Application terminated
+2026-03-26 15:56:57,596 - __main__ - INFO - ============================================================
+2026-03-26 15:56:59,074 - __main__ - INFO - ============================================================
+2026-03-26 15:56:59,075 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 15:56:59,075 - __main__ - INFO - ============================================================
+2026-03-26 15:56:59,076 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 15:56:59,076 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 15:56:59,076 - __main__ - INFO - Weather API initialized for 40.7128,-74.0060
+2026-03-26 15:56:59,077 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 15:56:59,077 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 15:57:00,023 - src.gui - INFO - GUI initialized successfully
+2026-03-26 15:57:00,024 - __main__ - INFO - Application initialization complete
+2026-03-26 15:57:00,024 - __main__ - INFO - Starting application...
+2026-03-26 15:57:00,024 - src.gui - INFO - Updating weather data...
+2026-03-26 15:57:00,190 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 15:57:00,190 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 15:57:00,191 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 15:59:27,162 - __main__ - INFO - Application terminated
+2026-03-26 15:59:27,163 - __main__ - INFO - ============================================================
+2026-03-26 16:05:02,757 - __main__ - INFO - ============================================================
+2026-03-26 16:05:02,758 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:05:02,758 - __main__ - INFO - ============================================================
+2026-03-26 16:05:02,759 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:05:02,759 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:05:02,759 - __main__ - INFO - Weather API initialized for 40.7128,-74.0060
+2026-03-26 16:05:02,760 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:05:02,760 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:05:04,428 - src.gui - INFO - Enhanced GUI initialized successfully
+2026-03-26 16:05:04,429 - __main__ - INFO - Application initialization complete
+2026-03-26 16:05:04,430 - __main__ - INFO - Starting application...
+2026-03-26 16:05:04,430 - src.gui - INFO - Updating weather data...
+2026-03-26 16:05:04,694 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:05:04,695 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 16:05:04,695 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 16:05:10,412 - src.gui - INFO - Location changed to: London
+2026-03-26 16:05:10,412 - src.gui - INFO - Updating weather data...
+2026-03-26 16:05:10,503 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:05:24,623 - src.gui - INFO - Location changed to: Singapore
+2026-03-26 16:05:24,624 - src.gui - INFO - Updating weather data...
+2026-03-26 16:05:24,743 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:05:34,539 - src.gui - INFO - Location changed to: Sydney
+2026-03-26 16:05:34,540 - src.gui - INFO - Updating weather data...
+2026-03-26 16:05:34,652 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:07:40,629 - __main__ - INFO - Application terminated
+2026-03-26 16:07:40,630 - __main__ - INFO - ============================================================
+2026-03-26 16:12:01,656 - __main__ - INFO - ============================================================
+2026-03-26 16:12:01,656 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:12:01,656 - __main__ - INFO - ============================================================
+2026-03-26 16:12:01,656 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:12:01,657 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:12:01,657 - __main__ - INFO - Weather API initialized for 40.7128,-74.0060
+2026-03-26 16:12:01,657 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:12:01,657 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:12:02,756 - src.gui - INFO - Enhanced GUI initialized successfully
+2026-03-26 16:12:02,756 - __main__ - INFO - Application initialization complete
+2026-03-26 16:12:02,756 - __main__ - INFO - Starting application...
+2026-03-26 16:12:02,756 - src.gui - INFO - Updating weather data...
+2026-03-26 16:12:03,004 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:12:03,004 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 16:12:03,004 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 16:12:08,031 - src.gui - INFO - Location changed to: New York
+2026-03-26 16:12:08,031 - src.gui - INFO - Updating weather data...
+2026-03-26 16:12:08,141 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:12:09,248 - src.gui - INFO - Location changed to: London
+2026-03-26 16:12:09,248 - src.gui - INFO - Updating weather data...
+2026-03-26 16:12:09,339 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:12:10,924 - __main__ - INFO - Application terminated
+2026-03-26 16:12:10,925 - __main__ - INFO - ============================================================
+2026-03-26 16:15:18,935 - __main__ - INFO - ============================================================
+2026-03-26 16:15:18,936 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:15:18,936 - __main__ - INFO - ============================================================
+2026-03-26 16:15:18,937 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:15:18,937 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:15:18,937 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:15:18,938 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:15:18,938 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 16:15:20,345 - src.gui - INFO - Enhanced GUI initialized successfully
+2026-03-26 16:15:20,345 - __main__ - INFO - Application initialization complete
+2026-03-26 16:15:20,346 - __main__ - INFO - Starting application...
+2026-03-26 16:15:20,346 - src.gui - INFO - Updating weather data...
+2026-03-26 16:15:20,432 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:15:20,432 - src.gui - INFO - Scheduling auto-refresh every 600000ms
+2026-03-26 16:15:20,433 - src.gui - INFO - Starting GUI event loop...
+2026-03-26 16:15:23,422 - src.gui - INFO - Location dropdown changed to: London
+2026-03-26 16:15:23,422 - __main__ - INFO - Changing location to: London
+2026-03-26 16:15:23,423 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-26 16:15:23,423 - __main__ - INFO - Weather API reinitialized for London
+2026-03-26 16:15:23,464 - src.gui - INFO - Updating weather data...
+2026-03-26 16:15:23,549 - src.gui - INFO - Weather update successful: Clouds
+2026-03-26 16:15:26,436 - src.gui - INFO - Location dropdown changed to: Paris
+2026-03-26 16:15:26,437 - __main__ - INFO - Changing location to: Paris
+2026-03-26 16:15:26,437 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-26 16:15:26,438 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-26 16:15:26,446 - src.gui - INFO - Updating weather data...
+2026-03-26 16:15:26,525 - src.gui - INFO - Weather update successful: Clear
+2026-03-26 16:15:28,817 - src.gui - INFO - Location dropdown changed to: Tokyo
+2026-03-26 16:15:28,818 - __main__ - INFO - Changing location to: Tokyo
+2026-03-26 16:15:28,818 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-26 16:15:28,818 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-26 16:15:28,828 - src.gui - INFO - Updating weather data...
+2026-03-26 16:15:28,939 - src.gui - INFO - Weather update successful: Clouds
+2026-03-26 16:15:31,166 - src.gui - INFO - Location dropdown changed to: Sydney
+2026-03-26 16:15:31,166 - __main__ - INFO - Changing location to: Sydney
+2026-03-26 16:15:31,167 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-26 16:15:31,167 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-26 16:15:31,208 - src.gui - INFO - Updating weather data...
+2026-03-26 16:15:31,299 - src.gui - INFO - Weather update successful: Rain
+2026-03-26 16:23:15,267 - __main__ - INFO - Application terminated
+2026-03-26 16:23:15,268 - __main__ - INFO - ============================================================
+2026-03-26 16:24:46,997 - __main__ - INFO - ============================================================
+2026-03-26 16:24:46,998 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:24:46,998 - __main__ - INFO - ============================================================
+2026-03-26 16:24:46,998 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:24:46,999 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:24:46,999 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:24:46,999 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:24:47,000 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 16:24:47,849 - src.gui - INFO - Enhanced GUI initialized successfully
+2026-03-26 16:24:47,850 - __main__ - INFO - Application initialization complete
+2026-03-26 16:24:47,851 - __main__ - INFO - Starting application...
+2026-03-26 16:25:00,527 - __main__ - INFO - Changing location to: London
+2026-03-26 16:25:00,528 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-26 16:25:00,528 - __main__ - INFO - Weather API reinitialized for London
+2026-03-26 16:25:11,999 - __main__ - INFO - Changing location to: Paris
+2026-03-26 16:25:12,000 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-26 16:25:12,001 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-26 16:34:13,749 - __main__ - INFO - Application terminated
+2026-03-26 16:34:13,750 - __main__ - INFO - ============================================================
+2026-03-26 16:43:53,576 - __main__ - INFO - ============================================================
+2026-03-26 16:43:53,577 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:43:53,577 - __main__ - INFO - ============================================================
+2026-03-26 16:43:53,577 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:43:53,578 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:43:53,578 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:43:53,578 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:43:53,579 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 16:43:54,141 - __main__ - CRITICAL - Fatal error: bad 2nd pad value "-10": must be positive screen distance
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 117, in _create_bento_layout
+    self.temperature_label.pack(pady=(0, -10))
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/core_widget_classes/ctk_base_class.py", line 298, in pack
+    return super().pack(**self._apply_argument_scaling(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 2472, in pack_configure
+    self.tk.call(
+_tkinter.TclError: bad 2nd pad value "-10": must be positive screen distance
+2026-03-26 16:43:54,143 - __main__ - INFO - Application terminated
+2026-03-26 16:43:54,144 - __main__ - INFO - ============================================================
+2026-03-26 16:44:03,071 - __main__ - INFO - ============================================================
+2026-03-26 16:44:03,072 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:44:03,072 - __main__ - INFO - ============================================================
+2026-03-26 16:44:03,072 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:44:03,073 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:44:03,073 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:44:03,074 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:44:03,074 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 16:44:03,473 - __main__ - CRITICAL - Fatal error: bad 2nd pad value "-10": must be positive screen distance
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 117, in _create_bento_layout
+    self.temperature_label.pack(pady=(0, -10))
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/core_widget_classes/ctk_base_class.py", line 298, in pack
+    return super().pack(**self._apply_argument_scaling(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 2472, in pack_configure
+    self.tk.call(
+_tkinter.TclError: bad 2nd pad value "-10": must be positive screen distance
+2026-03-26 16:44:03,475 - __main__ - INFO - Application terminated
+2026-03-26 16:44:03,476 - __main__ - INFO - ============================================================
+2026-03-26 16:45:29,610 - __main__ - INFO - ============================================================
+2026-03-26 16:45:29,610 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 16:45:29,611 - __main__ - INFO - ============================================================
+2026-03-26 16:45:29,611 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 16:45:29,611 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 16:45:29,612 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 16:45:29,612 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:45:29,613 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 16:45:30,151 - __main__ - INFO - Application initialization complete
+2026-03-26 16:45:30,151 - __main__ - INFO - Starting application...
+2026-03-26 16:45:30,965 - src.icon_manager - WARNING - Icon asset not found: /common/home/xjl4/Downloads/weatherproject/assets/icons/sun.png. Generating fallback.
+2026-03-26 16:45:39,988 - __main__ - INFO - Changing location to: New York
+2026-03-26 16:45:39,989 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 16:45:39,990 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-26 16:45:42,509 - __main__ - INFO - Changing location to: London
+2026-03-26 16:45:42,510 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-26 16:45:42,510 - __main__ - INFO - Weather API reinitialized for London
+2026-03-26 16:45:42,633 - src.icon_manager - WARNING - Icon asset not found: /common/home/xjl4/Downloads/weatherproject/assets/icons/cloud.png. Generating fallback.
+2026-03-26 17:56:42,286 - __main__ - INFO - ============================================================
+2026-03-26 17:56:42,286 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 17:56:42,287 - __main__ - INFO - ============================================================
+2026-03-26 17:56:42,287 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 17:56:42,288 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 17:56:42,288 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 17:56:42,288 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 17:56:42,289 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 17:56:42,784 - __main__ - CRITICAL - Fatal error: ['wrap'] are not supported arguments. Look at the documentation for supported arguments.
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 145, in _create_bento_layout
+    self.recommendation_content = ctk.CTkLabel(
+                                  ^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_label.py", line 101, in __init__
+    check_kwargs_empty(kwargs, raise_error=True)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/utility/utility_functions.py", line 18, in check_kwargs_empty
+    raise ValueError(f"{list(kwargs_dict.keys())} are not supported arguments. Look at the documentation for supported arguments.")
+ValueError: ['wrap'] are not supported arguments. Look at the documentation for supported arguments.
+2026-03-26 17:56:42,786 - __main__ - INFO - Application terminated
+2026-03-26 17:56:42,786 - __main__ - INFO - ============================================================
+2026-03-26 17:58:58,274 - __main__ - INFO - ============================================================
+2026-03-26 17:58:58,275 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 17:58:58,275 - __main__ - INFO - ============================================================
+2026-03-26 17:58:58,275 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 17:58:58,275 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 17:58:58,275 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 17:58:58,276 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 17:58:58,276 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 17:58:58,649 - __main__ - CRITICAL - Fatal error: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 145, in _create_bento_layout
+    self.recommendation_content = ctk.CTkTextbox(
+                                  ^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_textbox.py", line 91, in __init__
+    check_kwargs_empty(kwargs, raise_error=True)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/utility/utility_functions.py", line 18, in check_kwargs_empty
+    raise ValueError(f"{list(kwargs_dict.keys())} are not supported arguments. Look at the documentation for supported arguments.")
+ValueError: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+2026-03-26 17:58:58,651 - __main__ - INFO - Application terminated
+2026-03-26 17:58:58,651 - __main__ - INFO - ============================================================
+2026-03-26 18:00:31,081 - __main__ - INFO - ============================================================
+2026-03-26 18:00:31,082 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 18:00:31,082 - __main__ - INFO - ============================================================
+2026-03-26 18:00:31,082 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 18:00:31,082 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 18:00:31,083 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 18:00:31,083 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 18:00:31,083 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 18:00:31,525 - __main__ - CRITICAL - Fatal error: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 145, in _create_bento_layout
+    self.recommendation_content = ctk.CTkTextbox(
+                                  ^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_textbox.py", line 91, in __init__
+    check_kwargs_empty(kwargs, raise_error=True)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/utility/utility_functions.py", line 18, in check_kwargs_empty
+    raise ValueError(f"{list(kwargs_dict.keys())} are not supported arguments. Look at the documentation for supported arguments.")
+ValueError: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+2026-03-26 18:00:31,528 - __main__ - INFO - Application terminated
+2026-03-26 18:00:31,528 - __main__ - INFO - ============================================================
+2026-03-26 18:00:39,915 - __main__ - INFO - ============================================================
+2026-03-26 18:00:39,915 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 18:00:39,915 - __main__ - INFO - ============================================================
+2026-03-26 18:00:39,916 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 18:00:39,916 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 18:00:39,916 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 18:00:39,917 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 18:00:39,917 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 18:00:40,385 - __main__ - CRITICAL - Fatal error: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 53, in __init__
+    self._create_bento_layout()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 145, in _create_bento_layout
+    self.recommendation_content = ctk.CTkTextbox(
+                                  ^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_textbox.py", line 91, in __init__
+    check_kwargs_empty(kwargs, raise_error=True)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/utility/utility_functions.py", line 18, in check_kwargs_empty
+    raise ValueError(f"{list(kwargs_dict.keys())} are not supported arguments. Look at the documentation for supported arguments.")
+ValueError: ['text'] are not supported arguments. Look at the documentation for supported arguments.
+2026-03-26 18:00:40,387 - __main__ - INFO - Application terminated
+2026-03-26 18:00:40,388 - __main__ - INFO - ============================================================
+2026-03-26 18:02:09,376 - __main__ - INFO - ============================================================
+2026-03-26 18:02:09,376 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-26 18:02:09,376 - __main__ - INFO - ============================================================
+2026-03-26 18:02:09,376 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-26 18:02:09,376 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-26 18:02:09,377 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-26 18:02:09,377 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-26 18:02:09,377 - __main__ - INFO - Weather API initialized for New York
+2026-03-26 18:02:10,536 - __main__ - INFO - Application initialization complete
+2026-03-26 18:02:10,536 - __main__ - INFO - Starting application...
+2026-03-26 18:02:10,839 - src.icon_manager - WARNING - Icon asset not found: /common/home/xjl4/Downloads/weatherproject/assets/icons/sun.png. Generating fallback.
+2026-03-30 20:01:34,776 - __main__ - INFO - ============================================================
+2026-03-30 20:01:34,776 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:01:34,776 - __main__ - INFO - ============================================================
+2026-03-30 20:01:34,776 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:01:34,776 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:01:34,776 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:01:34,776 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:01:34,776 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:01:35,711 - __main__ - INFO - Application initialization complete
+2026-03-30 20:01:35,711 - __main__ - INFO - Starting application...
+2026-03-30 20:01:36,020 - src.icon_manager - WARNING - Icon asset not found: /common/home/xjl4/Downloads/weatherproject/assets/icons/cloud.png. Generating fallback.
+2026-03-30 20:02:52,878 - src.icon_manager - WARNING - Icon asset not found: /common/home/xjl4/Downloads/weatherproject/assets/icons/sun.png. Generating fallback.
+2026-03-30 20:09:11,580 - __main__ - INFO - Application terminated
+2026-03-30 20:09:11,581 - __main__ - INFO - ============================================================
+2026-03-30 20:10:04,829 - __main__ - INFO - ============================================================
+2026-03-30 20:10:04,829 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:10:04,830 - __main__ - INFO - ============================================================
+2026-03-30 20:10:04,830 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:10:04,830 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:10:04,831 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:10:04,831 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:10:04,832 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:10:05,938 - src.gui - INFO - Modern GUI initialized
+2026-03-30 20:10:05,938 - __main__ - INFO - Application initialization complete
+2026-03-30 20:10:05,938 - __main__ - INFO - Starting application...
+2026-03-30 20:10:05,939 - src.gui - INFO - Updating weather...
+2026-03-30 20:10:06,026 - src.gui - ERROR - Error: type object 'IconAssetManager' has no attribute 'get_emoji'
+2026-03-30 20:10:06,027 - src.gui - INFO - Starting GUI...
+2026-03-30 20:10:31,930 - src.gui - INFO - Location changed to: London
+2026-03-30 20:10:31,931 - __main__ - INFO - Changing location to: London
+2026-03-30 20:10:31,931 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:10:31,931 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:10:31,932 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:10:31,932 - src.gui - INFO - Updating weather...
+2026-03-30 20:10:32,012 - src.gui - ERROR - Error: type object 'IconAssetManager' has no attribute 'get_emoji'
+2026-03-30 20:10:34,052 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:10:34,053 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:10:34,053 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:10:34,053 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:10:34,054 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:10:34,055 - src.gui - INFO - Updating weather...
+2026-03-30 20:10:34,130 - src.gui - ERROR - Error: type object 'IconAssetManager' has no attribute 'get_emoji'
+2026-03-30 20:10:50,383 - __main__ - INFO - Application terminated
+2026-03-30 20:10:50,383 - __main__ - INFO - ============================================================
+2026-03-30 20:11:09,152 - __main__ - INFO - ============================================================
+2026-03-30 20:11:09,152 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:11:09,152 - __main__ - INFO - ============================================================
+2026-03-30 20:11:09,153 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:11:09,153 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:11:09,153 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:11:09,153 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:11:09,153 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:11:10,219 - src.gui - INFO - Modern GUI initialized
+2026-03-30 20:11:10,219 - __main__ - INFO - Application initialization complete
+2026-03-30 20:11:10,219 - __main__ - INFO - Starting application...
+2026-03-30 20:11:10,220 - src.gui - INFO - Updating weather...
+2026-03-30 20:11:10,281 - src.gui - ERROR - Error: type object 'IconAssetManager' has no attribute 'get_emoji'
+2026-03-30 20:11:10,281 - src.gui - INFO - Starting GUI...
+2026-03-30 20:11:11,568 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:11:11,568 - __main__ - INFO - Application terminated
+2026-03-30 20:11:11,568 - __main__ - INFO - ============================================================
+2026-03-30 20:11:20,138 - __main__ - INFO - ============================================================
+2026-03-30 20:11:20,138 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:11:20,138 - __main__ - INFO - ============================================================
+2026-03-30 20:11:20,138 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:11:20,138 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:11:20,138 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:11:20,138 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:11:20,139 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:11:21,122 - src.gui - INFO - Modern GUI initialized
+2026-03-30 20:11:21,122 - __main__ - INFO - Application initialization complete
+2026-03-30 20:11:21,122 - __main__ - INFO - Starting application...
+2026-03-30 20:11:21,122 - src.gui - INFO - Updating weather...
+2026-03-30 20:11:21,170 - src.gui - ERROR - Error: type object 'IconAssetManager' has no attribute 'get_emoji'
+2026-03-30 20:11:21,171 - src.gui - INFO - Starting GUI...
+2026-03-30 20:11:25,351 - __main__ - INFO - Application terminated
+2026-03-30 20:11:25,351 - __main__ - INFO - ============================================================
+2026-03-30 20:14:14,037 - __main__ - INFO - ============================================================
+2026-03-30 20:14:14,037 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:14:14,037 - __main__ - INFO - ============================================================
+2026-03-30 20:14:14,037 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:14:14,038 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:14:14,038 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:14:14,038 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:14:14,038 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:14:15,096 - src.gui - INFO - Modern GUI initialized
+2026-03-30 20:14:15,097 - __main__ - INFO - Application initialization complete
+2026-03-30 20:14:15,097 - __main__ - INFO - Starting application...
+2026-03-30 20:14:15,097 - src.gui - INFO - Updating weather...
+2026-03-30 20:14:15,181 - src.gui - INFO - Starting GUI...
+2026-03-30 20:14:25,971 - __main__ - INFO - Application terminated
+2026-03-30 20:14:25,971 - __main__ - INFO - ============================================================
+2026-03-30 20:14:58,288 - __main__ - INFO - ============================================================
+2026-03-30 20:14:58,288 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:14:58,288 - __main__ - INFO - ============================================================
+2026-03-30 20:14:58,289 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:14:58,289 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:14:58,289 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:14:58,289 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:14:58,290 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:14:59,882 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:14:59,882 - __main__ - INFO - Application initialization complete
+2026-03-30 20:14:59,882 - __main__ - INFO - Starting application...
+2026-03-30 20:14:59,882 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:00,197 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:15:00,197 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:15:00,198 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:15:21,910 - src.gui - INFO - Location changed to: London
+2026-03-30 20:15:21,910 - __main__ - INFO - Changing location to: London
+2026-03-30 20:15:21,910 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:15:21,910 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:15:21,911 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:21,911 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:22,023 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:15:24,808 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:15:24,808 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:15:24,808 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:15:24,808 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:15:24,809 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:24,809 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:25,054 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:15:32,816 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 20:15:32,817 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 20:15:32,817 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 20:15:32,817 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 20:15:32,818 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:32,818 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:36,027 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:15:48,895 - src.gui - INFO - Location changed to: Dubai
+2026-03-30 20:15:48,896 - __main__ - INFO - Changing location to: Dubai
+2026-03-30 20:15:48,896 - src.weather_api - INFO - WeatherAPI initialized for 25.2048,55.2708 (imperial)
+2026-03-30 20:15:48,896 - __main__ - INFO - Weather API reinitialized for Dubai
+2026-03-30 20:15:48,897 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:48,897 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:48,977 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:15:50,695 - src.gui - INFO - Location changed to: Sydney
+2026-03-30 20:15:50,695 - __main__ - INFO - Changing location to: Sydney
+2026-03-30 20:15:50,695 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-30 20:15:50,695 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-30 20:15:50,696 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:50,696 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:50,769 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:15:52,582 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 20:15:52,582 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 20:15:52,582 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 20:15:52,582 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 20:15:52,583 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:15:52,583 - src.gui - INFO - Updating weather data...
+2026-03-30 20:15:52,654 - src.gui - INFO - Weather update successful: Rain
+2026-03-30 20:16:12,765 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:16:12,765 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:16:12,765 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:16:12,765 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:16:12,765 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:16:12,765 - src.gui - INFO - Updating weather data...
+2026-03-30 20:16:12,848 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:16:24,513 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:16:24,514 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:16:24,514 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:16:24,514 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:16:24,514 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:16:24,514 - src.gui - INFO - Updating weather data...
+2026-03-30 20:16:24,610 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:16:26,160 - src.gui - INFO - Location changed to: London
+2026-03-30 20:16:26,161 - __main__ - INFO - Changing location to: London
+2026-03-30 20:16:26,161 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:16:26,161 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:16:26,162 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:16:26,162 - src.gui - INFO - Updating weather data...
+2026-03-30 20:16:26,285 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:16:32,031 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:16:32,032 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:16:32,032 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:16:32,032 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:16:32,033 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:16:32,033 - src.gui - INFO - Updating weather data...
+2026-03-30 20:16:32,149 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:16:33,856 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 20:16:33,856 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 20:16:33,856 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 20:16:33,857 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 20:16:33,857 - src.gui - WARNING - Background update error: type object 'BackgroundRenderer' has no attribute 'get_background_gradient'
+2026-03-30 20:16:33,857 - src.gui - INFO - Updating weather data...
+2026-03-30 20:16:33,933 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:19:25,128 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:19:25,129 - __main__ - INFO - Application terminated
+2026-03-30 20:19:25,130 - __main__ - INFO - ============================================================
+2026-03-30 20:19:27,119 - __main__ - INFO - ============================================================
+2026-03-30 20:19:27,119 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:19:27,119 - __main__ - INFO - ============================================================
+2026-03-30 20:19:27,120 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:19:27,120 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:19:27,121 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:19:27,121 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:19:27,121 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:19:28,927 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:19:28,928 - __main__ - INFO - Application initialization complete
+2026-03-30 20:19:28,929 - __main__ - INFO - Starting application...
+2026-03-30 20:19:28,929 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:29,184 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:19:29,184 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:19:29,185 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:19:33,185 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:19:33,186 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:19:33,187 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:19:33,187 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:19:33,199 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:33,276 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:19:35,153 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:19:35,154 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:19:35,155 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:19:35,156 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:19:35,169 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:35,256 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:19:36,554 - src.gui - INFO - Location changed to: London
+2026-03-30 20:19:36,555 - __main__ - INFO - Changing location to: London
+2026-03-30 20:19:36,556 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:19:36,556 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:19:36,565 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:36,679 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:19:52,731 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:19:52,732 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:19:52,733 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:19:52,733 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:19:52,740 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:52,849 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:19:55,683 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 20:19:55,684 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 20:19:55,685 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 20:19:55,686 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 20:19:55,699 - src.gui - INFO - Updating weather data...
+2026-03-30 20:19:55,816 - src.gui - INFO - Weather update successful: Rain
+2026-03-30 20:23:42,924 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:23:42,925 - __main__ - INFO - Application terminated
+2026-03-30 20:23:42,926 - __main__ - INFO - ============================================================
+2026-03-30 20:23:44,821 - __main__ - INFO - ============================================================
+2026-03-30 20:23:44,821 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:23:44,821 - __main__ - INFO - ============================================================
+2026-03-30 20:23:44,822 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:23:44,822 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:23:44,822 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:23:44,822 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:23:44,823 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:23:46,347 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:23:46,347 - __main__ - INFO - Application initialization complete
+2026-03-30 20:23:46,347 - __main__ - INFO - Starting application...
+2026-03-30 20:23:46,348 - src.gui - INFO - Updating weather data...
+2026-03-30 20:23:46,558 - src.gui - ERROR - Error: 'WeatherGUI' object has no attribute 'factors_textbox'
+2026-03-30 20:23:46,561 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:23:46,562 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:23:56,901 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:23:56,901 - __main__ - INFO - Application terminated
+2026-03-30 20:23:56,901 - __main__ - INFO - ============================================================
+2026-03-30 20:25:16,518 - __main__ - INFO - ============================================================
+2026-03-30 20:25:16,518 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:25:16,518 - __main__ - INFO - ============================================================
+2026-03-30 20:25:16,518 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:25:16,518 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:25:16,519 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:25:16,519 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:25:16,519 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:25:18,124 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:25:18,124 - __main__ - INFO - Application initialization complete
+2026-03-30 20:25:18,124 - __main__ - INFO - Starting application...
+2026-03-30 20:25:18,124 - src.gui - INFO - Updating weather data...
+2026-03-30 20:25:18,336 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:25:18,337 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:25:18,337 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:25:56,246 - src.gui - INFO - Location changed to: London
+2026-03-30 20:25:56,247 - __main__ - INFO - Changing location to: London
+2026-03-30 20:25:56,247 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:25:56,247 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:25:56,348 - src.gui - INFO - Updating weather data...
+2026-03-30 20:25:56,469 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:25:58,178 - src.gui - INFO - Location changed to: Sydney
+2026-03-30 20:25:58,178 - __main__ - INFO - Changing location to: Sydney
+2026-03-30 20:25:58,178 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-30 20:25:58,178 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-30 20:25:58,190 - src.gui - INFO - Updating weather data...
+2026-03-30 20:25:58,314 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:25:59,483 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 20:25:59,484 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 20:25:59,484 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 20:25:59,484 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 20:25:59,495 - src.gui - INFO - Updating weather data...
+2026-03-30 20:25:59,607 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:26:11,998 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:26:11,998 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:26:11,999 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:26:11,999 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:26:12,008 - src.gui - INFO - Updating weather data...
+2026-03-30 20:26:12,082 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:26:53,806 - src.gui - INFO - Location changed to: London
+2026-03-30 20:26:53,807 - __main__ - INFO - Changing location to: London
+2026-03-30 20:26:53,808 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:26:53,808 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:26:53,829 - src.gui - INFO - Updating weather data...
+2026-03-30 20:26:53,943 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:28:36,299 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:28:36,301 - __main__ - INFO - Application terminated
+2026-03-30 20:28:36,302 - __main__ - INFO - ============================================================
+2026-03-30 20:28:37,735 - __main__ - INFO - ============================================================
+2026-03-30 20:28:37,735 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:28:37,735 - __main__ - INFO - ============================================================
+2026-03-30 20:28:37,736 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:28:37,736 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:28:37,736 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:28:37,737 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:28:37,737 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:28:39,622 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:28:39,623 - __main__ - INFO - Application initialization complete
+2026-03-30 20:28:39,624 - __main__ - INFO - Starting application...
+2026-03-30 20:28:39,624 - src.gui - INFO - Updating weather data...
+2026-03-30 20:28:39,916 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:28:39,917 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:28:39,917 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:28:45,842 - src.gui - INFO - Location changed to: London
+2026-03-30 20:28:45,843 - __main__ - INFO - Changing location to: London
+2026-03-30 20:28:45,844 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:28:45,845 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:28:46,011 - src.gui - INFO - Updating weather data...
+2026-03-30 20:28:46,132 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:28:58,183 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:28:58,184 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:28:58,185 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:28:58,185 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:28:58,198 - src.gui - WARNING - Background update error: y1 must be greater than or equal to y0
+2026-03-30 20:28:58,198 - src.gui - INFO - Updating weather data...
+2026-03-30 20:28:58,281 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:30:23,501 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:30:23,502 - __main__ - INFO - Application terminated
+2026-03-30 20:30:23,503 - __main__ - INFO - ============================================================
+2026-03-30 20:30:24,662 - __main__ - INFO - ============================================================
+2026-03-30 20:30:24,662 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:30:24,663 - __main__ - INFO - ============================================================
+2026-03-30 20:30:24,663 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:30:24,663 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:30:24,664 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:30:24,664 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:30:24,665 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:30:26,455 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:30:26,456 - __main__ - INFO - Application initialization complete
+2026-03-30 20:30:26,456 - __main__ - INFO - Starting application...
+2026-03-30 20:30:26,457 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:26,741 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:30:26,742 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:30:26,743 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:30:31,954 - src.gui - INFO - Location changed to: London
+2026-03-30 20:30:31,954 - __main__ - INFO - Changing location to: London
+2026-03-30 20:30:31,955 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:30:31,955 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:30:32,075 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:32,195 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:34,892 - src.gui - INFO - Location changed to: Dubai
+2026-03-30 20:30:34,893 - __main__ - INFO - Changing location to: Dubai
+2026-03-30 20:30:34,893 - src.weather_api - INFO - WeatherAPI initialized for 25.2048,55.2708 (imperial)
+2026-03-30 20:30:34,895 - __main__ - INFO - Weather API reinitialized for Dubai
+2026-03-30 20:30:34,913 - src.gui - WARNING - Background update error: y1 must be greater than or equal to y0
+2026-03-30 20:30:34,914 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:35,016 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:37,418 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 20:30:37,419 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 20:30:37,419 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 20:30:37,420 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 20:30:37,512 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:37,670 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:39,201 - src.gui - INFO - Location changed to: New York
+2026-03-30 20:30:39,201 - __main__ - INFO - Changing location to: New York
+2026-03-30 20:30:39,202 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:30:39,203 - __main__ - INFO - Weather API reinitialized for New York
+2026-03-30 20:30:39,324 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:39,406 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:30:43,407 - src.gui - INFO - Location changed to: London
+2026-03-30 20:30:43,407 - __main__ - INFO - Changing location to: London
+2026-03-30 20:30:43,408 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:30:43,409 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:30:43,527 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:43,612 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:44,941 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:30:44,941 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:30:44,942 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:30:44,942 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:30:44,948 - src.gui - WARNING - Background update error: y1 must be greater than or equal to y0
+2026-03-30 20:30:44,948 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:45,024 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:30:46,076 - src.gui - INFO - Location changed to: Sydney
+2026-03-30 20:30:46,076 - __main__ - INFO - Changing location to: Sydney
+2026-03-30 20:30:46,077 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-30 20:30:46,078 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-30 20:30:46,160 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:46,278 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:47,696 - src.gui - INFO - Location changed to: Dubai
+2026-03-30 20:30:47,697 - __main__ - INFO - Changing location to: Dubai
+2026-03-30 20:30:47,697 - src.weather_api - INFO - WeatherAPI initialized for 25.2048,55.2708 (imperial)
+2026-03-30 20:30:47,698 - __main__ - INFO - Weather API reinitialized for Dubai
+2026-03-30 20:30:47,703 - src.gui - WARNING - Background update error: y1 must be greater than or equal to y0
+2026-03-30 20:30:47,704 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:47,781 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:49,292 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 20:30:49,294 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 20:30:49,294 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 20:30:49,295 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 20:30:49,418 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:49,498 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:30:50,609 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 20:30:50,700 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 20:30:50,700 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 20:30:50,701 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 20:30:50,771 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:50,892 - src.gui - INFO - Weather update successful: Rain
+2026-03-30 20:30:52,707 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:30:52,707 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:30:52,707 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:30:52,707 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:30:52,718 - src.gui - WARNING - Background update error: y1 must be greater than or equal to y0
+2026-03-30 20:30:52,718 - src.gui - INFO - Updating weather data...
+2026-03-30 20:30:52,787 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:34:57,219 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:34:57,220 - __main__ - INFO - Application terminated
+2026-03-30 20:34:57,220 - __main__ - INFO - ============================================================
+2026-03-30 20:34:58,803 - __main__ - INFO - ============================================================
+2026-03-30 20:34:58,803 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:34:58,803 - __main__ - INFO - ============================================================
+2026-03-30 20:34:58,803 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:34:58,804 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:34:58,804 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:34:58,804 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:34:58,804 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:35:00,388 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:35:00,388 - __main__ - INFO - Application initialization complete
+2026-03-30 20:35:00,388 - __main__ - INFO - Starting application...
+2026-03-30 20:35:00,388 - src.gui - INFO - Updating weather data...
+2026-03-30 20:35:00,649 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:35:00,649 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:35:00,649 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:35:08,212 - src.gui - INFO - Location changed to: London
+2026-03-30 20:35:08,212 - __main__ - INFO - Changing location to: London
+2026-03-30 20:35:08,212 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:35:08,213 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:35:08,340 - src.gui - INFO - Updating weather data...
+2026-03-30 20:35:08,488 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:35:15,616 - __main__ - INFO - Application terminated
+2026-03-30 20:35:15,616 - __main__ - INFO - ============================================================
+2026-03-30 20:50:15,764 - __main__ - INFO - ============================================================
+2026-03-30 20:50:15,765 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:50:15,765 - __main__ - INFO - ============================================================
+2026-03-30 20:50:15,766 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:50:15,766 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:50:15,766 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:50:15,767 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:50:15,767 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:50:17,947 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:50:17,948 - __main__ - INFO - Application initialization complete
+2026-03-30 20:50:17,948 - __main__ - INFO - Starting application...
+2026-03-30 20:50:17,949 - src.gui - INFO - Updating weather data...
+2026-03-30 20:50:18,357 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:50:18,357 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:50:18,358 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:50:58,717 - __main__ - INFO - ============================================================
+2026-03-30 20:50:58,718 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:50:58,718 - __main__ - INFO - ============================================================
+2026-03-30 20:50:58,718 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:50:58,718 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:50:58,718 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:50:58,718 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:50:58,718 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:51:00,675 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:51:00,676 - __main__ - INFO - Application initialization complete
+2026-03-30 20:51:00,676 - __main__ - INFO - Starting application...
+2026-03-30 20:51:00,676 - src.gui - INFO - Updating weather data...
+2026-03-30 20:51:01,049 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:51:01,049 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:51:01,049 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:53:08,574 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:53:08,575 - __main__ - INFO - Application terminated
+2026-03-30 20:53:08,576 - __main__ - INFO - ============================================================
+2026-03-30 20:55:30,988 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:55:30,989 - __main__ - INFO - Application terminated
+2026-03-30 20:55:30,989 - __main__ - INFO - ============================================================
+2026-03-30 20:55:36,215 - __main__ - INFO - ============================================================
+2026-03-30 20:55:36,215 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:55:36,215 - __main__ - INFO - ============================================================
+2026-03-30 20:55:36,215 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:55:36,215 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:55:36,215 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:55:36,215 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:55:36,216 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:55:38,150 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:55:38,150 - __main__ - INFO - Application initialization complete
+2026-03-30 20:55:38,150 - __main__ - INFO - Starting application...
+2026-03-30 20:55:38,150 - src.gui - INFO - Updating weather data...
+2026-03-30 20:55:38,465 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:55:38,465 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:55:38,466 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:57:24,242 - __main__ - INFO - ============================================================
+2026-03-30 20:57:24,247 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:57:24,256 - __main__ - INFO - ============================================================
+2026-03-30 20:57:24,271 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:57:24,272 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:57:24,272 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:57:24,273 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:57:24,273 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:57:26,267 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:57:26,268 - __main__ - INFO - Application initialization complete
+2026-03-30 20:57:26,268 - __main__ - INFO - Starting application...
+2026-03-30 20:57:26,269 - src.gui - INFO - Updating weather data...
+2026-03-30 20:57:26,628 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:57:26,628 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:57:26,629 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:58:06,656 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:58:06,657 - __main__ - INFO - Application terminated
+2026-03-30 20:58:06,658 - __main__ - INFO - ============================================================
+2026-03-30 20:58:07,022 - __main__ - INFO - ============================================================
+2026-03-30 20:58:07,022 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:58:07,023 - __main__ - INFO - ============================================================
+2026-03-30 20:58:07,023 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:58:07,023 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:58:07,024 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:58:07,024 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:58:07,024 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:58:08,667 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:58:08,667 - __main__ - INFO - Application initialization complete
+2026-03-30 20:58:08,668 - __main__ - INFO - Starting application...
+2026-03-30 20:58:08,669 - src.gui - INFO - Updating weather data...
+2026-03-30 20:58:08,983 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:58:08,983 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:58:08,984 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:58:11,796 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:58:11,796 - __main__ - INFO - Application terminated
+2026-03-30 20:58:11,797 - __main__ - INFO - ============================================================
+2026-03-30 20:58:26,724 - __main__ - INFO - Application interrupted by user
+2026-03-30 20:58:26,726 - __main__ - INFO - Application terminated
+2026-03-30 20:58:26,726 - __main__ - INFO - ============================================================
+2026-03-30 20:58:28,239 - __main__ - INFO - ============================================================
+2026-03-30 20:58:28,239 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 20:58:28,240 - __main__ - INFO - ============================================================
+2026-03-30 20:58:28,240 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 20:58:28,241 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 20:58:28,241 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 20:58:28,242 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 20:58:28,242 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 20:58:30,017 - src.gui - INFO - Professional GUI initialized
+2026-03-30 20:58:30,017 - __main__ - INFO - Application initialization complete
+2026-03-30 20:58:30,017 - __main__ - INFO - Starting application...
+2026-03-30 20:58:30,018 - src.gui - INFO - Updating weather data...
+2026-03-30 20:58:30,325 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 20:58:30,325 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 20:58:30,325 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 20:58:34,251 - src.gui - INFO - Location changed to: London
+2026-03-30 20:58:34,251 - __main__ - INFO - Changing location to: London
+2026-03-30 20:58:34,252 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 20:58:34,252 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 20:58:34,400 - src.gui - INFO - Updating weather data...
+2026-03-30 20:58:34,522 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 20:58:37,109 - src.gui - INFO - Location changed to: Paris
+2026-03-30 20:58:37,110 - __main__ - INFO - Changing location to: Paris
+2026-03-30 20:58:37,111 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 20:58:37,111 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 20:58:37,270 - src.gui - INFO - Updating weather data...
+2026-03-30 20:58:37,386 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 21:03:05,394 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:03:05,395 - __main__ - INFO - Application terminated
+2026-03-30 21:03:05,395 - __main__ - INFO - ============================================================
+2026-03-30 21:08:13,328 - __main__ - INFO - ============================================================
+2026-03-30 21:08:13,328 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:08:13,328 - __main__ - INFO - ============================================================
+2026-03-30 21:08:13,329 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:08:13,329 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:08:13,330 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:08:13,330 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:08:13,330 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:08:15,388 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:08:15,389 - __main__ - INFO - Application initialization complete
+2026-03-30 21:08:15,389 - __main__ - INFO - Starting application...
+2026-03-30 21:08:15,390 - src.gui - INFO - Updating weather data...
+2026-03-30 21:08:15,810 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:08:15,810 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:08:15,811 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:08:18,059 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:08:18,059 - __main__ - INFO - Application terminated
+2026-03-30 21:08:18,060 - __main__ - INFO - ============================================================
+2026-03-30 21:09:25,760 - __main__ - INFO - ============================================================
+2026-03-30 21:09:25,760 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:09:25,761 - __main__ - INFO - ============================================================
+2026-03-30 21:09:25,761 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:09:25,761 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:09:25,762 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:09:25,762 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:09:25,763 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:09:27,719 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:09:27,719 - __main__ - INFO - Application initialization complete
+2026-03-30 21:09:27,720 - __main__ - INFO - Starting application...
+2026-03-30 21:09:27,720 - src.gui - INFO - Updating weather data...
+2026-03-30 21:09:28,006 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:09:28,006 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:09:28,007 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:09:32,490 - src.gui - INFO - Location changed to: Dubai
+2026-03-30 21:09:32,491 - __main__ - INFO - Changing location to: Dubai
+2026-03-30 21:09:32,492 - src.weather_api - INFO - WeatherAPI initialized for 25.2048,55.2708 (imperial)
+2026-03-30 21:09:32,492 - __main__ - INFO - Weather API reinitialized for Dubai
+2026-03-30 21:09:32,685 - src.gui - INFO - Updating weather data...
+2026-03-30 21:09:36,900 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:13:09,403 - __main__ - INFO - Application terminated
+2026-03-30 21:13:09,403 - __main__ - INFO - ============================================================
+2026-03-30 21:13:12,423 - __main__ - INFO - ============================================================
+2026-03-30 21:13:12,423 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:13:12,423 - __main__ - INFO - ============================================================
+2026-03-30 21:13:12,423 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:13:12,424 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:13:12,424 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:13:12,424 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:13:12,425 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:13:14,546 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:13:14,546 - __main__ - INFO - Application initialization complete
+2026-03-30 21:13:14,547 - __main__ - INFO - Starting application...
+2026-03-30 21:13:14,547 - src.gui - INFO - Updating weather data...
+2026-03-30 21:13:14,862 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:13:14,862 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:13:14,863 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:13:22,247 - __main__ - INFO - Application terminated
+2026-03-30 21:13:22,248 - __main__ - INFO - ============================================================
+2026-03-30 21:13:40,664 - __main__ - INFO - ============================================================
+2026-03-30 21:13:40,664 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:13:40,664 - __main__ - INFO - ============================================================
+2026-03-30 21:13:40,664 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:13:40,664 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:13:40,665 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:13:40,665 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:13:40,665 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:13:42,736 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:13:42,736 - __main__ - INFO - Application initialization complete
+2026-03-30 21:13:42,736 - __main__ - INFO - Starting application...
+2026-03-30 21:13:42,736 - src.gui - INFO - Updating weather data...
+2026-03-30 21:13:43,082 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:13:43,083 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:13:43,083 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:14:13,511 - src.gui - INFO - Location changed to: London
+2026-03-30 21:14:13,512 - __main__ - INFO - Changing location to: London
+2026-03-30 21:14:13,513 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 21:14:13,513 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 21:14:13,689 - src.gui - INFO - Updating weather data...
+2026-03-30 21:14:13,768 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:14:14,797 - src.gui - INFO - Location changed to: Paris
+2026-03-30 21:14:14,797 - __main__ - INFO - Changing location to: Paris
+2026-03-30 21:14:14,798 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 21:14:14,798 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 21:14:14,953 - src.gui - INFO - Updating weather data...
+2026-03-30 21:14:15,042 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 21:14:15,910 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 21:14:15,910 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 21:14:15,910 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 21:14:15,910 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 21:14:16,086 - src.gui - INFO - Updating weather data...
+2026-03-30 21:14:16,171 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:14:16,918 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 21:14:16,919 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 21:14:16,919 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 21:14:16,919 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 21:14:16,920 - src.gui - INFO - Updating weather data...
+2026-03-30 21:14:17,049 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:14:18,286 - src.gui - INFO - Location changed to: Tokyo
+2026-03-30 21:14:18,286 - __main__ - INFO - Changing location to: Tokyo
+2026-03-30 21:14:18,286 - src.weather_api - INFO - WeatherAPI initialized for 35.6762,139.6503 (imperial)
+2026-03-30 21:14:18,286 - __main__ - INFO - Weather API reinitialized for Tokyo
+2026-03-30 21:14:18,287 - src.gui - INFO - Updating weather data...
+2026-03-30 21:14:18,425 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:16:33,395 - __main__ - INFO - ============================================================
+2026-03-30 21:16:33,395 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:16:33,395 - __main__ - INFO - ============================================================
+2026-03-30 21:16:33,396 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:16:33,396 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:16:33,396 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:16:33,396 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:16:33,396 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:16:34,669 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:16:34,669 - __main__ - INFO - Application initialization complete
+2026-03-30 21:16:34,669 - __main__ - INFO - Starting application...
+2026-03-30 21:16:34,669 - src.gui - INFO - Updating weather data...
+2026-03-30 21:16:35,961 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:16:35,961 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:16:35,961 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:16:38,197 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:16:38,197 - __main__ - INFO - Application terminated
+2026-03-30 21:16:38,198 - __main__ - INFO - ============================================================
+2026-03-30 21:16:56,337 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:16:56,337 - __main__ - INFO - Application terminated
+2026-03-30 21:16:56,337 - __main__ - INFO - ============================================================
+2026-03-30 21:16:57,883 - __main__ - INFO - ============================================================
+2026-03-30 21:16:57,883 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:16:57,883 - __main__ - INFO - ============================================================
+2026-03-30 21:16:57,883 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:16:57,883 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:16:57,883 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:16:57,883 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:16:57,884 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:16:59,186 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:16:59,186 - __main__ - INFO - Application initialization complete
+2026-03-30 21:16:59,186 - __main__ - INFO - Starting application...
+2026-03-30 21:16:59,186 - src.gui - INFO - Updating weather data...
+2026-03-30 21:17:00,503 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:17:00,504 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:17:00,504 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:17:12,283 - src.gui - INFO - Location changed to: Paris
+2026-03-30 21:17:12,284 - __main__ - INFO - Changing location to: Paris
+2026-03-30 21:17:12,284 - src.weather_api - INFO - WeatherAPI initialized for 48.8566,2.3522 (imperial)
+2026-03-30 21:17:12,285 - __main__ - INFO - Weather API reinitialized for Paris
+2026-03-30 21:17:12,449 - src.gui - INFO - Updating weather data...
+2026-03-30 21:17:12,569 - src.gui - INFO - Weather update successful: Clear
+2026-03-30 21:17:14,030 - src.gui - INFO - Location changed to: Sydney
+2026-03-30 21:17:14,030 - __main__ - INFO - Changing location to: Sydney
+2026-03-30 21:17:14,031 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-30 21:17:14,031 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-30 21:17:14,152 - src.gui - INFO - Updating weather data...
+2026-03-30 21:17:14,301 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:17:15,998 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 21:17:15,999 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 21:17:16,000 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 21:17:16,001 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 21:17:16,150 - src.gui - INFO - Updating weather data...
+2026-03-30 21:17:16,274 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:23:54,524 - __main__ - INFO - ============================================================
+2026-03-30 21:23:54,525 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:23:54,525 - __main__ - INFO - ============================================================
+2026-03-30 21:23:54,525 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:23:54,525 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:23:54,526 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:23:54,526 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:23:54,526 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:23:57,757 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:23:57,758 - __main__ - INFO - Application initialization complete
+2026-03-30 21:23:57,758 - __main__ - INFO - Starting application...
+2026-03-30 21:23:57,759 - src.gui - INFO - Updating weather data...
+2026-03-30 21:24:03,456 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:24:03,457 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:24:03,457 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:24:03,457 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:24:03,457 - __main__ - INFO - Application terminated
+2026-03-30 21:24:03,457 - __main__ - INFO - ============================================================
+2026-03-30 21:24:16,355 - __main__ - INFO - Application terminated
+2026-03-30 21:24:16,356 - __main__ - INFO - ============================================================
+2026-03-30 21:27:03,139 - __main__ - INFO - ============================================================
+2026-03-30 21:27:03,139 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:27:03,140 - __main__ - INFO - ============================================================
+2026-03-30 21:27:03,140 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:27:03,141 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:27:03,141 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:27:03,141 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:27:03,142 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:27:05,150 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:27:05,151 - __main__ - INFO - Application initialization complete
+2026-03-30 21:27:05,151 - __main__ - INFO - Starting application...
+2026-03-30 21:27:05,151 - src.gui - INFO - Updating weather data...
+2026-03-30 21:27:08,957 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:27:08,958 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:27:08,958 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:27:22,730 - __main__ - CRITICAL - Fatal error: maximum recursion depth exceeded
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1967, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 357, in <lambda>
+    lambda event, widget=label: widget.configure(wraplength=max(event.width - 12, 240))
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 85, in configure
+    shadow.configure(**kwargs)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/ctk_label.py", line 235, in configure
+    self._label.configure(wraplength=self._apply_widget_scaling(self._wraplength))
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1721, in configure
+    return self._configure('configure', cnf, kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1704, in _configure
+    cnf = _cnfmerge((cnf, kw))
+          ^^^^^^^^^^^^^^^^^^^^
+RecursionError: maximum recursion depth exceeded
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 176, in main
+    app.run()
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 162, in run
+    self.gui.run()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 632, in run
+    self.root.mainloop()
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/ctk_tk.py", line 165, in mainloop
+    super().mainloop(*args, **kwargs)
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1504, in mainloop
+    self.tk.mainloop(n)
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1971, in __call__
+    self.widget._report_exception()
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 1687, in _report_exception
+    root.report_callback_exception(exc, val, tb)
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 2426, in report_callback_exception
+    traceback.print_exception(exc, val, tb)
+  File "/usr/lib/python3.12/traceback.py", line 124, in print_exception
+    te = TracebackException(type(value), value, tb, limit=limit, compact=True)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/traceback.py", line 733, in __init__
+    self.stack = StackSummary._extract_from_extended_frame_gen(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/traceback.py", line 418, in _extract_from_extended_frame_gen
+    for f, (lineno, end_lineno, colno, end_colno) in frame_gen:
+RecursionError: maximum recursion depth exceeded
+2026-03-30 21:27:22,735 - __main__ - INFO - Application terminated
+2026-03-30 21:27:22,736 - __main__ - INFO - ============================================================
+2026-03-30 21:29:20,243 - __main__ - INFO - ============================================================
+2026-03-30 21:29:20,243 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:29:20,243 - __main__ - INFO - ============================================================
+2026-03-30 21:29:20,244 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:29:20,244 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:29:20,245 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:29:20,245 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:29:20,245 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:29:22,473 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:29:22,474 - __main__ - INFO - Application initialization complete
+2026-03-30 21:29:22,475 - __main__ - INFO - Starting application...
+2026-03-30 21:29:22,475 - src.gui - INFO - Updating weather data...
+2026-03-30 21:29:32,790 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:29:32,791 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:29:32,792 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:29:32,792 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:29:32,793 - __main__ - INFO - Application terminated
+2026-03-30 21:29:32,794 - __main__ - INFO - ============================================================
+2026-03-30 21:29:52,728 - __main__ - INFO - ============================================================
+2026-03-30 21:29:52,728 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:29:52,729 - __main__ - INFO - ============================================================
+2026-03-30 21:29:52,729 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:29:52,730 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:29:52,730 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:29:52,730 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:29:52,731 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:29:54,370 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:29:54,371 - __main__ - INFO - Application initialization complete
+2026-03-30 21:29:54,372 - __main__ - INFO - Starting application...
+2026-03-30 21:29:54,372 - src.gui - INFO - Updating weather data...
+2026-03-30 21:30:03,856 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:30:03,856 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:30:03,857 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:30:18,649 - src.gui - INFO - Location changed to: Singapore
+2026-03-30 21:30:18,650 - __main__ - INFO - Changing location to: Singapore
+2026-03-30 21:30:18,652 - src.weather_api - INFO - WeatherAPI initialized for 1.3521,103.8198 (imperial)
+2026-03-30 21:30:18,652 - __main__ - INFO - Weather API reinitialized for Singapore
+2026-03-30 21:30:18,824 - src.gui - INFO - Updating weather data...
+2026-03-30 21:30:18,954 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:30:21,250 - __main__ - INFO - Application terminated
+2026-03-30 21:30:21,252 - __main__ - INFO - ============================================================
+2026-03-30 21:34:31,022 - __main__ - INFO - ============================================================
+2026-03-30 21:34:31,022 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:34:31,022 - __main__ - INFO - ============================================================
+2026-03-30 21:34:31,022 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:34:31,023 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:34:31,023 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:34:31,023 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:34:31,024 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:34:31,559 - __main__ - CRITICAL - Fatal error: cannot use geometry manager pack inside .!ctklabel which already has slaves managed by grid
+Traceback (most recent call last):
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 175, in main
+    app = CognitiveWeatherOracleApp()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/main.py", line 101, in __init__
+    self.gui = WeatherGUI(
+               ^^^^^^^^^^^
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 134, in __init__
+    self._create_ui()
+  File "/common/home/xjl4/Downloads/weatherproject/src/gui.py", line 180, in _create_ui
+    self.overlay.pack(fill="both", expand=True)
+  File "/common/home/xjl4/Downloads/weatherproject/venv/lib/python3.12/site-packages/customtkinter/windows/widgets/core_widget_classes/ctk_base_class.py", line 298, in pack
+    return super().pack(**self._apply_argument_scaling(kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/tkinter/__init__.py", line 2472, in pack_configure
+    self.tk.call(
+_tkinter.TclError: cannot use geometry manager pack inside .!ctklabel which already has slaves managed by grid
+2026-03-30 21:34:31,561 - __main__ - INFO - Application terminated
+2026-03-30 21:34:31,561 - __main__ - INFO - ============================================================
+2026-03-30 21:38:24,069 - __main__ - INFO - ============================================================
+2026-03-30 21:38:24,070 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:38:24,070 - __main__ - INFO - ============================================================
+2026-03-30 21:38:24,071 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:38:24,071 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:38:24,071 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:38:24,072 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:38:24,072 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:38:26,398 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:38:26,399 - __main__ - INFO - Application initialization complete
+2026-03-30 21:38:26,400 - __main__ - INFO - Starting application...
+2026-03-30 21:38:26,400 - src.gui - INFO - Updating weather data...
+2026-03-30 21:38:36,452 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:38:36,453 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:38:36,453 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:38:36,454 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:38:36,454 - __main__ - INFO - Application terminated
+2026-03-30 21:38:36,455 - __main__ - INFO - ============================================================
+2026-03-30 21:38:42,171 - __main__ - INFO - ============================================================
+2026-03-30 21:38:42,172 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:38:42,172 - __main__ - INFO - ============================================================
+2026-03-30 21:38:42,173 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:38:42,173 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:38:42,174 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:38:42,174 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:38:42,175 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:38:43,875 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:38:43,875 - __main__ - INFO - Application initialization complete
+2026-03-30 21:38:43,876 - __main__ - INFO - Starting application...
+2026-03-30 21:38:43,876 - src.gui - INFO - Updating weather data...
+2026-03-30 21:38:55,390 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:38:55,390 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:38:55,391 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:39:04,592 - __main__ - INFO - Application terminated
+2026-03-30 21:39:04,611 - __main__ - INFO - ============================================================
+2026-03-30 21:39:24,993 - __main__ - INFO - ============================================================
+2026-03-30 21:39:24,995 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:39:24,995 - __main__ - INFO - ============================================================
+2026-03-30 21:39:24,996 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:39:24,996 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:39:24,997 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:39:24,997 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:39:24,997 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:39:26,592 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:39:26,593 - __main__ - INFO - Application initialization complete
+2026-03-30 21:39:26,594 - __main__ - INFO - Starting application...
+2026-03-30 21:39:26,594 - src.gui - INFO - Updating weather data...
+2026-03-30 21:39:35,677 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:39:35,678 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:39:35,678 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:39:44,032 - __main__ - INFO - Application terminated
+2026-03-30 21:39:44,033 - __main__ - INFO - ============================================================
+2026-03-30 21:43:13,023 - __main__ - INFO - ============================================================
+2026-03-30 21:43:13,023 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:43:13,023 - __main__ - INFO - ============================================================
+2026-03-30 21:43:13,024 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:43:13,024 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:43:13,024 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:43:13,025 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:43:13,025 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:43:14,777 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:43:14,777 - __main__ - INFO - Application initialization complete
+2026-03-30 21:43:14,777 - __main__ - INFO - Starting application...
+2026-03-30 21:43:14,778 - src.gui - INFO - Updating weather data...
+2026-03-30 21:43:24,145 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:43:24,145 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:43:24,145 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:43:32,932 - src.gui - INFO - Location changed to: London
+2026-03-30 21:43:32,932 - __main__ - INFO - Changing location to: London
+2026-03-30 21:43:32,932 - src.weather_api - INFO - WeatherAPI initialized for 51.5074,-0.1278 (imperial)
+2026-03-30 21:43:32,933 - __main__ - INFO - Weather API reinitialized for London
+2026-03-30 21:43:33,057 - src.gui - INFO - Updating weather data...
+2026-03-30 21:43:33,209 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:43:34,227 - src.gui - INFO - Location changed to: Sydney
+2026-03-30 21:43:34,228 - __main__ - INFO - Changing location to: Sydney
+2026-03-30 21:43:34,228 - src.weather_api - INFO - WeatherAPI initialized for -33.8688,151.2093 (imperial)
+2026-03-30 21:43:34,228 - __main__ - INFO - Weather API reinitialized for Sydney
+2026-03-30 21:43:34,313 - src.gui - INFO - Updating weather data...
+2026-03-30 21:43:34,441 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:45:21,176 - __main__ - INFO - Application interrupted by user
+2026-03-30 21:45:21,176 - __main__ - INFO - Application terminated
+2026-03-30 21:45:21,176 - __main__ - INFO - ============================================================
+2026-03-30 21:45:22,354 - __main__ - INFO - ============================================================
+2026-03-30 21:45:22,355 - __main__ - INFO - Cognitive Weather Oracle - Starting
+2026-03-30 21:45:22,355 - __main__ - INFO - ============================================================
+2026-03-30 21:45:22,355 - __main__ - INFO - Initializing Cognitive Weather Oracle...
+2026-03-30 21:45:22,355 - src.persona_engine - INFO - PersonaEngine initialized with philosopher persona
+2026-03-30 21:45:22,356 - __main__ - INFO - Persona Engine initialized with philosopher persona
+2026-03-30 21:45:22,356 - src.weather_api - INFO - WeatherAPI initialized for 40.7128,-74.0060 (imperial)
+2026-03-30 21:45:22,356 - __main__ - INFO - Weather API initialized for New York
+2026-03-30 21:45:24,506 - src.gui - INFO - Professional GUI initialized
+2026-03-30 21:45:24,506 - __main__ - INFO - Application initialization complete
+2026-03-30 21:45:24,506 - __main__ - INFO - Starting application...
+2026-03-30 21:45:24,506 - src.gui - INFO - Updating weather data...
+2026-03-30 21:45:24,853 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 21:45:24,853 - src.gui - INFO - Auto-refresh scheduled every 600000ms
+2026-03-30 21:45:24,853 - src.gui - INFO - Starting GUI event loop...
+2026-03-30 21:55:24,854 - src.gui - INFO - Updating weather data...
+2026-03-30 21:55:24,953 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:05:24,954 - src.gui - INFO - Updating weather data...
+2026-03-30 22:05:25,047 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:15:25,048 - src.gui - INFO - Updating weather data...
+2026-03-30 22:15:25,198 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:25:25,199 - src.gui - INFO - Updating weather data...
+2026-03-30 22:25:25,300 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:35:25,300 - src.gui - INFO - Updating weather data...
+2026-03-30 22:35:25,372 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:45:25,373 - src.gui - INFO - Updating weather data...
+2026-03-30 22:45:25,470 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 22:55:25,470 - src.gui - INFO - Updating weather data...
+2026-03-30 22:55:25,546 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 23:05:25,547 - src.gui - INFO - Updating weather data...
+2026-03-30 23:05:25,625 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 23:15:25,625 - src.gui - INFO - Updating weather data...
+2026-03-30 23:15:25,758 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 23:25:25,758 - src.gui - INFO - Updating weather data...
+2026-03-30 23:25:25,831 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 23:35:25,831 - src.gui - INFO - Updating weather data...
+2026-03-30 23:35:25,919 - src.gui - INFO - Weather update successful: Clouds
+2026-03-30 23:45:25,920 - src.gui - INFO - Updating weather data...
+2026-03-30 23:45:26,051 - src.gui - INFO - Weather update successful: Clouds

@@ -1,0 +1,204 @@
+===============================================================================
+COGNITIVE WEATHER ORACLE - SIMPLE SETUP GUIDE
+===============================================================================
+
+YOU NOW HAVE ALL FILES! Here's what to do:
+
+STEP 1: Organize Your Folder Structure
+===============================================================================
+Create a folder on your computer and put all these files in it:
+
+cognitive-weather-oracle/
+├── main.py
+├── config.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── pytest.ini
+├── Makefile
+├── example_demo.py
+├── setup.py
+├── README.md
+├── QUICKSTART.md
+├── ARCHITECTURE.md
+├── COGNITIVE_MAPPING.md
+├── DELIVERY_SUMMARY.md
+├── SETUP_INSTRUCTIONS.txt (this file)
+├── src/
+│   ├── __init__.py
+│   ├── weather_api.py
+│   ├── persona_engine.py
+│   ├── theme_manager.py
+│   ├── icon_manager.py
+│   └── gui.py
+└── tests/
+    ├── __init__.py
+    ├── conftest.py
+    ├── test_weather_api.py
+    ├── test_persona_engine.py
+    ├── test_theme_manager.py
+    └── test_integration.py
+
+STEP 2: Open Terminal/Command Prompt
+===============================================================================
+Navigate to your project folder:
+  cd cognitive-weather-oracle
+
+STEP 3: Create Virtual Environment
+===============================================================================
+Windows:
+  python -m venv venv
+  venv\Scripts\activate
+
+Mac/Linux:
+  python -m venv venv
+  source venv/bin/activate
+
+You should see (venv) at the start of your command line.
+
+STEP 4: Install Dependencies
+===============================================================================
+  pip install -r requirements.txt
+
+Wait for it to complete. You'll see lots of text. That's normal.
+
+STEP 5: Get OpenWeatherMap API Key
+===============================================================================
+1. Go to: https://openweathermap.org/api
+2. Click "Sign Up" and create a FREE account
+3. Copy your API key (it's on the dashboard)
+4. Open the file ".env.example" and rename it to ".env"
+5. Edit ".env" file and paste your API key where it says:
+   OPENWEATHER_API_KEY=your_api_key_here
+
+STEP 6: Run the Application!
+===============================================================================
+  python main.py
+
+You should see a window pop up with the weather app!
+
+STEP 7: Run Tests (Optional)
+===============================================================================
+Open a NEW terminal window (keep the app running) and run:
+  cd cognitive-weather-oracle
+  source venv/bin/activate  (or venv\Scripts\activate on Windows)
+  pytest
+
+You should see: "115 passed" 
+
+===============================================================================
+TROUBLESHOOTING
+===============================================================================
+
+"ModuleNotFoundError: No module named 'customtkinter'"
+→ Did you run: pip install -r requirements.txt?
+
+"API key not configured"
+→ Did you create .env file and add your API key?
+
+"Unable to fetch weather data"
+→ Check your internet connection
+→ Check if API key is valid (go back to openweathermap.org)
+
+"venv not found"
+→ Make sure you're in the right folder (cognitive-weather-oracle/)
+→ Did you run: python -m venv venv?
+
+================================================================================
+WHAT EACH FILE DOES
+================================================================================
+
+MAIN FILES TO RUN:
+  main.py           ← Run this with: python main.py
+  example_demo.py   ← Shows features without GUI: python example_demo.py
+
+APPLICATION CODE:
+  src/weather_api.py      → Gets weather data from internet
+  src/persona_engine.py   → Turns weather into psychology
+  src/theme_manager.py    → Color themes for the GUI
+  src/icon_manager.py     → Weather icons
+  src/gui.py              → The visual window and buttons
+
+TEST CODE:
+  tests/test_weather_api.py      → Tests for weather data (30+ tests)
+  tests/test_persona_engine.py   → Tests for psychology (40+ tests)
+  tests/test_theme_manager.py    → Tests for colors (25+ tests)
+  tests/test_integration.py      → Tests for everything working (20+ tests)
+  tests/conftest.py              → Test configuration
+
+DOCUMENTATION:
+  README.md              → Features overview
+  QUICKSTART.md          → Installation guide
+  COGNITIVE_MAPPING.md   → Why weather affects psychology
+  ARCHITECTURE.md        → How the code is organized
+  DELIVERY_SUMMARY.md    → Complete project overview
+
+CONFIGURATION:
+  config.py              → Settings
+  requirements.txt       → What Python packages to install
+  .env.example          → Template for your API key
+  pytest.ini            → Test configuration
+  Makefile              → Development commands
+  setup.py              → Package info
+
+================================================================================
+USEFUL COMMANDS (Once installed)
+================================================================================
+
+# Run the application
+python main.py
+
+# Run all tests
+pytest
+
+# Run only unit tests
+pytest -m unit
+
+# Show test coverage
+pytest --cov
+
+# Run demo (no API key needed!)
+python example_demo.py
+
+# If you have Makefile installed, you can also do:
+make run           # Run app
+make test          # Run tests
+make test-cov      # Coverage report
+make lint          # Check code quality
+
+================================================================================
+QUICK VERIFICATION
+================================================================================
+
+After step 4 (pip install), check that it worked:
+  python -c "import customtkinter; print('OK')"
+
+This should print "OK". If it shows an error, the installation didn't work.
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Get your app running (main.py)
+2. Try the demo (example_demo.py) 
+3. Read README.md to understand features
+4. Review COGNITIVE_MAPPING.md to understand the psychology
+5. Read src/persona_engine.py to understand the code
+6. Run pytest to see all tests pass
+
+================================================================================
+YOU'RE READY!
+================================================================================
+
+You now have everything needed to:
+✓ Run the weather app
+✓ See it work
+✓ Understand how it works
+✓ Show it to employers
+✓ Customize it
+✓ Deploy it
+✓ Add it to your portfolio
+
+Good luck! 🚀
+
+Questions? Read the .md files in the folder - they answer most questions!
